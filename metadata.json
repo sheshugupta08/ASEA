@@ -1,0 +1,6 @@
+{
+  "name": "ASEA - Autonomous Software Engineering Agent",
+  "description": "Enterprise AI platform for autonomous code generation, repository analysis, bug fixing, test suite generation, and automated deployments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
